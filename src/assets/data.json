@@ -13,7 +13,7 @@
       "date": "2023-2024",
       "title": "TECHY STAR",
       "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
-      "url": "https://reactone-nine.vercel.app",
+      "url": "https://react-router-simplewebsite.netlify.app/",
       "imgSrc": "https://cdn.pixabay.com/photo/2018/06/07/16/49/virtual-3460451_960_720.jpg"
     },
 
@@ -35,7 +35,7 @@
     {
       "date": "2022-2023",
       "title": "Another PORTFOLIO using SimpleJS",
-      "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
+      "description": "This is the sample description about a ccs animation based project.I have used simple css ans js in this project",
       "url": "https://prince9536.github.io/Prince__Portfolio/",
       "imgSrc": "https://cdn.pixabay.com/photo/2020/03/19/21/25/cactus-4948833_960_720.jpg"
     }
